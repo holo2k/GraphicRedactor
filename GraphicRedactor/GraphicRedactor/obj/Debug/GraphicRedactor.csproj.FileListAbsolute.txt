@@ -1,0 +1,11 @@
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe.config
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.exe
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\bin\Debug\GraphicRedactor.pdb
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csprojAssemblyReference.cache
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Properties.Resources.resources
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.GenerateResource.cache
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.csproj.CoreCompileInputs.cache
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.exe
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.pdb
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.GraphRed.resources
+C:\Users\holo\source\repos\GraphicRedactor\GraphicRedactor\obj\Debug\GraphicRedactor.Form2.resources
